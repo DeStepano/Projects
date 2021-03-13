@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="1150px"
+   height="1020px"
+   viewBox="0 0 1150 1020"
+   id="svg3529"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="World population (UN).svg.2011_11_26_00_27_46.0.svg"><metadata
+   id="metadata3695"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3693" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1024"
+   inkscape:window-height="538"
+   id="namedview3691"
+   showgrid="false"
+   inkscape:zoom="0.46182777"
+   inkscape:cx="721.28304"
+   inkscape:cy="906.27699"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g3619" />
+
+<g
+   stroke="gray"
+   id="g3531">
+<line
+   x1="100"
+   x2="1100"
+   y1="50"
+   y2="50"
+   id="line3533" />
+<line
+   x1="100"
+   x2="1100"
+   y1="140.3"
+   y2="140.3"
+   id="line3535" />
+<line
+   x1="100"
+   x2="1100"
+   y1="259.7"
+   y2="259.7"
+   id="line3537" />
+<line
+   x1="100"
+   x2="1100"
+   y1="350"
+   y2="350"
+   id="line3539" />
+<line
+   x1="100"
+   x2="1100"
+   y1="440.3"
+   y2="440.3"
+   id="line3541" />
+<line
+   x1="100"
+   x2="1100"
+   y1="559.7"
+   y2="559.7"
+   id="line3543" />
+<line
+   x1="100"
+   x2="1100"
+   y1="650"
+   y2="650"
+   id="line3545" />
+<line
+   x1="100"
+   x2="1100"
+   y1="740.3"
+   y2="740.3"
+   id="line3547" />
+<line
+   x1="100"
+   x2="1100"
+   y1="859.7"
+   y2="859.7"
+   id="line3549" />
+
+<line
+   x1="200"
+   x2="200"
+   y1="20"
+   y2="950"
+   id="line3551" />
+<line
+   x1="300"
+   x2="300"
+   y1="20"
+   y2="950"
+   id="line3553" />
+<line
+   x1="400"
+   x2="400"
+   y1="20"
+   y2="950"
+   id="line3555" />
+<line
+   x1="500"
+   x2="500"
+   y1="20"
+   y2="950"
+   id="line3557" />
+<line
+   x1="600"
+   x2="600"
+   y1="20"
+   y2="950"
+   id="line3559" />
+<line
+   x1="700"
+   x2="700"
+   y1="20"
+   y2="950"
+   id="line3561" />
+<line
+   x1="800"
+   x2="800"
+   y1="20"
+   y2="950"
+   id="line3563" />
+<line
+   x1="900"
+   x2="900"
+   y1="20"
+   y2="950"
+   id="line3565" />
+<line
+   x1="1000"
+   x2="1000"
+   y1="20"
+   y2="950"
+   id="line3567" />
+</g>
+<rect
+   width="1000"
+   height="930"
+   x="100"
+   y="20"
+   fill="none"
+   stroke="black"
+   stroke-width="2"
+   id="rect3569" />
+
+<g
+   font-family="sans-serif"
+   font-size="30"
+   fill="black"
+   id="g3571">
+<text
+   x="7"
+   y="60"
+   id="text3573">10000</text>
+
+
+<text
+   x="23"
+   y="150.3"
+   id="text3575">5000</text>
+
+
+<text
+   x="23"
+   y="269.7"
+   id="text3577">2000</text>
+
+
+<text
+   x="23"
+   y="360"
+   id="text3579">1000</text>
+
+
+<text
+   x="39"
+   y="450.3"
+   id="text3581">500</text>
+
+
+<text
+   x="39"
+   y="569.7"
+   id="text3583">200</text>
+
+
+<text
+   x="39"
+   y="660"
+   id="text3585">100</text>
+
+
+<text
+   x="55"
+   y="750.3"
+   id="text3587">50</text>
+
+
+<text
+   x="55"
+   y="869.7"
+   id="text3589">20</text>
+
+
+<text
+   x="55"
+   y="960"
+   id="text3591">10</text>
+
+
+<text
+   x="65"
+   y="1000"
+   id="text3593">1950</text>
+
+
+<text
+   x="165"
+   y="1000"
+   id="text3595">1960</text>
+
+
+<text
+   x="265"
+   y="1000"
+   id="text3597">1970</text>
+
+
+<text
+   x="365"
+   y="1000"
+   id="text3599">1980</text>
+
+
+<text
+   x="465"
+   y="1000"
+   id="text3601">1990</text>
+
+
+<text
+   x="565"
+   y="1000"
+   id="text3603">2000</text>
+
+
+<text
+   x="665"
+   y="1000"
+   id="text3605">2010</text>
+
+
+<text
+   x="765"
+   y="1000"
+   id="text3607">2020</text>
+
+
+<text
+   x="865"
+   y="1000"
+   id="text3609">2030</text>
+
+
+<text
+   x="965"
+   y="1000"
+   id="text3611">2040</text>
+
+
+<text
+   x="1065"
+   y="1000"
+   id="text3613">2050</text>
+
+
+</g>
+
+<g
+   transform="translate(100,50)"
+   id="g3615">
+<g
+   transform="scale(10,-10)"
+   id="g3617">
+<g
+   transform="translate(-1950,-210)"
+   id="g3619">
+
+<!-- World -->
+<!-- x-coordinate is simply year. y-coordinate is 30*lg(population/1000) [logarithmic scale] -->
+<!-- this path represents low and high variants (low variant is in the reverse order) -->
+<path
+   d="M 2011.6187,204.81848 2015,205.58 l 5,0.85 5,0.77 5,0.7 5,0.64 5,0.63 5,0.61 5,0.56 0,-4.2 -5,0.11 -5,0.03 -5,-0.07 -5,-0.17 -5,-0.27 -5,-0.36 -5,-0.43 c 0,0 -3.3907,-0.17869 -3.3813,-0.16152 z"
+   id="path3621"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#800080"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+<!-- this path represents medium variant -->
+<path
+   d="m 1950,192.12 5,1.16 5,1.17 5,1.27 5,1.32 5,1.27 5,1.15 5,1.13 5,1.13 5.0826,0.85953 4.8918,0.9536 4.9843,0.63894 5.0826,0.51206 4.9587,0.48221 5,0.65 5,0.57 5,0.49 5,0.42 5,0.35 5,0.29 5,0.24"
+   id="path3623"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#800080;stroke-width:0.30000001"
+   sodipodi:nodetypes="ccccccccccccccccccccc" />
+<!-- this path represents constant-fertility variant -->
+<path
+   d="m 2011.6387,204.82534 3.9337,0.60186 4.4276,0.7328 5,0.83 5,0.83 5,0.84 5,0.88 5,0.91 5,0.97"
+   id="path3625"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#800080;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3627">
+<text
+   x="1961"
+   y="-197.5"
+   font-family="sans-serif"
+   font-size="3"
+   fill="purple"
+   id="text3629">World</text>
+
+
+</g>
+	
+<!-- Africa -->
+<path
+   d="M 2011.3521,180.79466 2015,182.06 l 5,1.5 5,1.39 5,1.31 5,1.24 5,1.19 5,1.12 5,1.05 0,-3.82 -5,-0.45 -5,-0.57 -5,-0.67 -5,-0.79 -5,-0.91 -5,-1.01 -5,-1.11 c -2.809,-0.46224 -1.9264,-0.57693 -3.6479,-0.73534 z"
+   id="path3631"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#000000"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+<path
+   stroke="black"
+   stroke-width="0.3"
+   fill="none"
+   d="M 1950,160.519184472357  L 1955,161.97  L 1960,163.51  L 1965,165.13  L 1970,166.83  L 1975,168.58  L 1980,170.43  L 1985,172.31  L 1990,174.13  L 1995,175.83  L 2000,177.42  L 2005,178.94  L 2010,180.41  L 2015,181.81  L 2020,183.11  L 2025,184.32  L 2030,185.44  L 2035,186.46  L 2040,187.40  L 2045,188.25  L 2050,189.01"
+   id="path3633" />
+<path
+   d="M 2011.0437,180.68233 2015,182.23 l 5,1.74 5,1.76 5,1.81 5,1.86 5,1.93 5,1.99 5,2.03"
+   id="path3635"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3637">
+<text
+   x="1961"
+   y="-167"
+   font-family="sans-serif"
+   font-size="3"
+   fill="black"
+   id="text3639">Africa</text>
+
+
+</g>
+	
+<!-- Asia -->
+<path
+   d="M 2011.0048,198.73349 2015,199.56 l 5,0.82 5,0.71 5,0.62 5,0.55 5,0.52 5,0.5 5,0.46 0,-4.31 -5,0.24 -5,0.15 -5,0.05 -5,-0.07 -5,-0.19 -5,-0.29 -5,-0.37 c -2.6812,-0.16515 -0.4319,0.10748 -3.9952,-0.21651 z"
+   id="path3641"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#ffd700"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+<path
+   stroke="gold"
+   stroke-width="0.3"
+   fill="none"
+   d="M 1950,184.48  L 1955,185.72  L 1960,186.95  L 1965,188.35  L 1970,189.9  L 1975,191.37  L 1980,192.63  L 1985,193.85  L 1990,195.08  L 1995,196.14  L 2000,197.06  L 2005,197.86  L 2010,198.59  L 2015,199.27  L 2020,199.87  L 2025,200.38  L 2030,200.79  L 2035,201.1  L 2040,201.35  L 2045,201.53  L 2050,201.64"
+   id="path3643" />
+<path
+   d="M 2011.2727,198.77048 2015,199.49 l 5,0.8 5,0.73 5,0.7 5,0.67 5,0.68 5,0.68 5,0.69"
+   id="path3645"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ffd700;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3647">
+<text
+   x="1981"
+   y="-190"
+   font-family="sans-serif"
+   font-size="3"
+   fill="gold"
+   id="text3649">Asia</text>
+
+
+</g>
+	
+<!-- Europe -->
+<path
+   d="m 2010.777,175.89568 4.223,0.23432 5,0.1 5,0.06 5,0.04 5,0.05 5,0.09 5,0.12 5,0.13 0,-4.13 -5,0.59 -5,0.53 -5,0.46 -5,0.4 -5,0.36 -5,0.33 -5,0.3 c -3.2638,0.25955 -1.6883,0.257 -4.223,0.33568 z"
+   id="path3651"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#0000ff"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+<path
+   stroke="blue"
+   stroke-width="0.3"
+   fill="none"
+   d="M 1950,172.17  L 1955,172.81  L 1960,173.46  L 1965,174.08  L 1970,174.52  L 1975,174.91  L 1980,175.23  L 1985,175.47  L 1990,175.74  L 1995,175.87  L 2000,175.87  L 2005,175.92  L 2010,175.91  L 2015,175.85  L 2020,175.76  L 2025,175.63  L 2030,175.48  L 2035,175.31  L 2040,175.11  L 2045,174.9  L 2050,174.67"
+   id="path3653" />
+<path
+   d="M 2011.2121,175.85892 2015,175.8 l 5,-0.15 5,-0.19 5,-0.22 5,-0.27 5,-0.31 5,-0.36 5,-0.4"
+   id="path3655"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#0000ff;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3657">
+<text
+   x="1970"
+   y="-176"
+   font-family="sans-serif"
+   font-size="3"
+   fill="blue"
+   id="text3659">Europe</text>
+
+
+</g>
+	
+<!-- Latin America -->
+<path
+   d="M 2011.0878,173.42324 2015,174.25 l 5,0.86 5,0.77 5,0.69 5,0.64 5,0.59 5,0.54 5,0.49 0,-4.63 -5,0.25 -5,0.15 -5,0.03 -5,-0.09 -5,-0.21 -5,-0.32 -5,-0.4 c -3.2197,-0.19068 -0.4337,-0.0209 -3.9122,-0.18676 z"
+   id="path3661"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#ff0000"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+<path
+   stroke="red"
+   stroke-width="0.3"
+   fill="none"
+   d="M 1950,156.73  L 1955,158.5  L 1960,160.28  L 1965,162.09  L 1970,163.76  L 1975,165.35  L 1980,166.85  L 1985,168.21  L 1990,169.43  L 1995,170.54  L 2000,171.56  L 2005,172.4  L 2010,173.21  L 2015,173.94  L 2020,174.58  L 2025,175.13  L 2030,175.59  L 2035,175.96  L 2040,176.25  L 2045,176.45  L 2050,176.58"
+   id="path3663" />
+<path
+   d="M 2011.0567,173.35216 2015,174.17 l 5,0.84 5,0.79 5,0.74 5,0.71 5,0.67 5,0.64 5,0.62"
+   id="path3665"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3667">
+<text
+   x="1995"
+   y="-168"
+   font-family="sans-serif"
+   font-size="3"
+   fill="red"
+   id="text3669">Latin America</text>
+
+
+</g>
+	
+<!-- Northern America -->
+<path
+   d="M 2011.5413,166.37095 2015,167.12 l 5,0.72 5,0.65 5,0.6 5,0.59 5,0.58 5,0.57 5,0.58 0,-3.96 -5,0.05 -5,0.02 -5,-0.06 -5,-0.12 -5,-0.2 -5,-0.26 -5,-0.31 c -3.7192,-0.11542 -1.6073,-0.10198 -3.4587,-0.19905 z"
+   id="path3671"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#a52a2a"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+<path
+   stroke="brown"
+   stroke-width="0.3"
+   fill="none"
+   d="M 1950,157.04  L 1955,158.15  L 1960,159.3  L 1965,160.22  L 1970,160.96  L 1975,161.59  L 1980,162.22  L 1985,162.89  L 1990,163.6  L 1995,164.3  L 2000,164.98  L 2005,165.64  L 2010,166.27  L 2015,166.84  L 2020,167.37  L 2025,167.83  L 2030,168.24  L 2035,168.6  L 2040,168.92  L 2045,169.2  L 2050,169.46"
+   id="path3673" />
+<path
+   d="M 2011.1062,166.33901 2015,166.85 l 5,0.56 5,0.51 5,0.47 5,0.42 5,0.38 5,0.35 5,0.34"
+   id="path3675"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#a52a2a;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3677">
+<text
+   x="2001"
+   y="-162"
+   font-family="sans-serif"
+   font-size="3"
+   fill="brown"
+   id="text3679">Northern America</text>
+
+
+</g>
+	
+<!-- Oceania -->
+<path
+   d="m 2011.0881,136.67135 c 2.9521,0.67773 5.9221,1.46386 8.9119,2.02576 l 5,0.96598 5,0.8825 5,0.81094 5,0.78709 5,0.76325 5,0.75131 0,-4.57945 -5,0 -5,-0.0954 -5,-0.20274 -5,-0.31007 -5,-0.42932 -5,-0.50088 c -3.1159,-0.0944 -6.5365,-0.55332 -8.9119,-0.86902 z"
+   id="path3681"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#008000"
+   sodipodi:nodetypes="ccccccccccccccccc" />
+<path
+   stroke="green"
+   stroke-width="0.3"
+   fill="none"
+   d="M 1950,123.22  L 1955,124.62  L 1960,126.03  L 1965,127.5  L 1970,128.79  L 1975,129.84  L 1980,130.77  L 1985,131.77  L 1990,132.81  L 1995,133.87  L 2000,134.79  L 2005,135.72  L 2010,136.5  L 2015,137.22  L 2020,137.89  L 2025,138.52  L 2030,139.08  L 2035,139.56  L 2040,139.97  L 2045,140.32  L 2050,140.64"
+   id="path3683" />
+<path
+   d="M 2011.0539,136.66024 2015,137.35 l 5,0.8 5,0.78 5,0.75 5,0.73 5,0.72 5,0.72 5,0.74"
+   id="path3685"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#008000;stroke-width:0.30000001;stroke-dasharray:1"
+   sodipodi:nodetypes="ccccccccc" />
+<g
+   transform="scale(1,-1)"
+   id="g3687">
+<text
+   x="1965"
+   y="-131"
+   font-family="sans-serif"
+   font-size="3"
+   fill="green"
+   id="text3689">Oceania</text>
+
+
+</g>
+
+</g></g></g>
+
+<g
+   id="g3758"
+   transform="matrix(1,0,0,0.81990679,0,8.9022662)" /><g
+   id="g3780"
+   transform="matrix(0.89183335,0,0,1,86.464389,-6)"><g
+     transform="matrix(0.44143915,0,0,1,446.49272,-684)"
+     id="g3732"><g
+       id="g3728"
+       transform="translate(32.067074,-2.1488245)" /></g></g></svg>
